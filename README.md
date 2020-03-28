@@ -1,11 +1,18 @@
 # hamradio
 HAM Radio resources and notes
 
+## general ham / preparedness info
+
+Mike Glover Talks Ham Radio and Preparedness: https://www.youtube.com/watch?v=P2eFwHRW_30
 
 ## hardware
 
+### Baofeng uv-5r
+
 The normal Baofeng UV-5R modified by Mirkit to be 8W instead of 4W and programmable
 - This is 2 radios and a usb programming cable https://www.amazon.com/gp/product/B07V9V669Z/
+
+Baofeng for Beginners: How to Use Baofeng UV-5R Buttons and More https://www.youtube.com/watch?v=eYqcjAo5wUI
 
 ## frequencies
 
@@ -29,4 +36,8 @@ Beginners Guide: https://chirp.danplanet.com/projects/chirp/wiki/Beginners_Guide
 
 UV-5R Troubleshooting Guide: https://chirp.danplanet.com/projects/chirp/wiki/BaofengUV5R
 
+## licenses
 
+Five Easy Steps to Get Your Ham Radio License - Ham Radio Q&A: https://www.youtube.com/watch?v=9mcVLxQUSak
+
+Introduction to Ham Radio and Technician Training Class (1hr, good course): https://www.youtube.com/watch?v=vG2S_xV3zJE
