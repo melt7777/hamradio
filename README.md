@@ -50,6 +50,10 @@ UV-5R Troubleshooting Guide: https://chirp.danplanet.com/projects/chirp/wiki/Bao
 
 ## licenses
 
+Please find, in FCC.md file in this repo, the information provided to me from the FCC Support Agent directly.
+
+https://github.com/melt7777/hamradio/blob/master/FCC.md
+
 Five Easy Steps to Get Your Ham Radio License - Ham Radio Q&A: https://www.youtube.com/watch?v=9mcVLxQUSak
 
 Introduction to Ham Radio and Technician Training Class (1hr, good course): https://www.youtube.com/watch?v=vG2S_xV3zJE
