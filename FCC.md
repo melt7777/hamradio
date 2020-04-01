@@ -1,10 +1,6 @@
+# Amateur Licensing – New and Upgrading Requirements
 
-
-Amateur Licensing – New and Upgrading Requirements
-
- 
-
-Examination
+## Examination
 
 Operation of an amateur station requires an amateur operator license grant from the FCC. Before receiving a license grant or upgrading to a higher operator class, you must pass an examination administered by a team of Volunteer Examiners (VEs). The VEs determine the operator class for which you are qualified by testing your knowledge in operating an amateur station.
 
@@ -14,9 +10,9 @@ For individuals entering the amateur service or upgrading their license operator
 
 The element standards of each operator class examination are defined in [47 CFR § 97.503](https://www.ecfr.gov/cgi-bin/text-idx?node=se47.5.97_1503) as follows:
 
-    The Element 2 exam contains 35 questions concerning the privileges of a Technician class operator license. The minimum passing score is 26 questions answered correctly.
-    The Element 3 exam contains 35 questions concerning the privileges of a General class operator license. The minimum passing score is 26 questions answered correctly.
-    The Element 4 exam contains 50 questions concerning the privileges of an Amateur Extra Class operator license. The minimum passing score is 37 questions answered correctly.
+- The Element 2 exam contains 35 questions concerning the privileges of a Technician class operator license. The minimum passing score is 26 questions answered correctly.
+- The Element 3 exam contains 35 questions concerning the privileges of a General class operator license. The minimum passing score is 26 questions answered correctly.
+- The Element 4 exam contains 50 questions concerning the privileges of an Amateur Extra Class operator license. The minimum passing score is 37 questions answered correctly.
 
 NOTE: Examinees may sit for one or more of the exams in one testing session in order to obtain a license at a higher operator class. They do not need to test for each element, be issued a license, and then test again to upgrade to the next operator class. For example, an examinee may test for elements 2, 3 and 4 at one sitting and then be issued an Extra Class license (providing that examinee passed all elements). However, most new amateur radio operators start with the "no-code" Technician Class operator license. Some newcomers, however, begin at the General Class. A few even begin at the Amateur Extra Class.
 
@@ -31,19 +27,19 @@ https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-se
 
  
 
-Volunteer Examiners (VEs)
+## Volunteer Examiners (VEs)
 
 Volunteer Examiners (VEs) are Amateur Extra Class radio operators who volunteer their time and talent to prepare and administer amateur radio operator license examinations. The examination for a Technician Class operator license grant is also prepared and administered by Advanced and General Class operators. Advanced Class licensees may also prepare and administer General Class license examinations. A VE is a person at least 18 years of age whose license has never been revoked or suspended. Your close relatives, however, cannot be your VEs. Each VE, moreover, has been accredited by a Volunteer-Examiner Coordinator (VEC), an organization that exists for the purpose of furthering the amateur service.
 
  
 
-Volunteer Examiner Coordinators (VECs)
+## Volunteer Examiner Coordinators (VECs)
 
 VECs coordinate the efforts of Volunteer Examiners (VEs) in preparing and administering amateur service operator license examinations. The coordinating VEC screens collected information, resolves all discrepancies, and forwards all required data to the FCC electronically. All VECs are authorized to coordinate examination sessions at any location an examination can be administered. A VEC, however, may choose to limit its area of operation to a particular geographical area. A list of VECs is available on the FCC's website.
 
  
 
-Element Credit
+## Element Credit
 
 A previously licensed amateur may be eligible for Element Credit. According to 47 CFR § 97.505(a), the administering Volunteer Examiners (VEs) must give credit as specified below to an examinee holding any of the following license grants:
 
